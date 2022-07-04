@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ascaand, industrial designer based in Italy
+- 👀 I’m interested in physical computing & digital fabrication
+- 🌱 I’m currently learning python, C++, C#
+- 📫 hello@andreaascani.com or www.andreaascani.com
